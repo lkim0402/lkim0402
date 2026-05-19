@@ -3,7 +3,6 @@
 hi, i'm leejun kim, an undergraduate @ uw seattle majoring in CS.
 
 - currently learning ai agent engineering and ai-native strategies
-- interested in game dev and art!
 - `#learninginpublic` in my [digital garden](https://lkim0402.github.io/obsidian-vault-main) and my [main website/blog](https://www.leejunkim.com/) 
 
 
